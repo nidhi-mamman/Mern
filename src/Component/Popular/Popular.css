@@ -1,0 +1,25 @@
+.popular{
+    height: 90vh;
+}
+.popular h1{
+    text-align: center;
+    margin-top: 80px;
+}
+.popular hr{
+    width:150px;
+    border-radius: 5px;
+    height: 5px;
+    margin-left: 35em;
+}
+.popular-item{
+    display: flex;
+    gap:20px;
+    padding-left:60px;
+    padding-right:80px;
+    margin-top: 30px;
+}
+.popular-item img{
+    height: 20em;
+}
+
+
